@@ -1,0 +1,358 @@
+/*header1*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Allerta Stencil';
+}
+.header-main{
+    display: flex;
+    color: black;
+}
+.main-logo{
+    width: 72px;
+    height: 50px;
+    padding-left: 10px;
+    
+}
+.heading{
+    font-family: 'Allerta Stencil';
+    padding-left: 5px;
+    padding-top: 25px;
+   
+
+}
+.call{
+    width: 40px;
+    height: 40px;
+   background: rgb(142, 41, 41);
+   display: flex;
+  align-items: center;  
+  justify-content: center;
+  margin-left: 200px;
+  margin-top: 10px;
+  font-family: 'Allerta Stencil';
+}
+
+
+.num{
+    align-items: center;
+    display: flex;
+    color: black;
+    font-size: large;
+    padding-left: 10px;
+    text-decoration: none;
+
+}
+.email{
+    width: 40px;
+    height: 40px;
+   background: rgb(142, 41, 41);
+   display: flex;
+   align-items: center;  
+   justify-content: center;
+   margin-left: 10px;
+   margin-top: 10px;
+   font-family: 'Allerta Stencil';
+}
+.msg{
+    align-items: center;
+    display: flex;
+    color: black;
+    font-size: large;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.select{
+    width: 90px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+/*eader2*/
+.header2{
+    width: 100%;
+    height: 60px;
+    background: rgb(142, 41, 41);
+    margin-top: 10px; 
+    display: flex;
+}
+.header2 a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Allerta Stencil';
+    align-items: center;  
+    justify-content: center;
+    display: flex;
+    margin-left: 40px;
+    font-size:small;
+}
+.search{
+    width: 116px;
+    height: 39px;
+    margin-top: 11px;
+    margin-left: 6px;
+    border-radius: 52px;
+}
+.logo{
+    margin-left: 500px;
+    margin-top: 100px;
+    width: 40px;
+}
+.img1{
+    width: 100%;
+}
+.body1{
+    display: flex;
+}
+.h1{
+    display: flex;
+    margin-left: 552px;
+    margin-top: -52px;
+}
+.line{
+    background-color: brown;
+    width: 65px;
+    height: 4px;
+    margin-left: 600px;
+    margin-top: 15px;
+}
+.para{
+    text-align: justify;
+    /* padding: 112px; */
+    margin-right: 796px;
+    letter-spacing: 1px;
+    margin-top: 60px;
+    margin-left: 61px;
+}
+}
+.contant{
+    display: flex;
+}
+.video{
+    width: 409px;
+    margin-left: 712px;
+    /* margin-bottom: 101px; */
+    margin-top: -198px;
+}
+.btn1{
+    width: 200px;
+    height: 56px;
+    background-color: #0f8b8d;
+    margin-right: 608px;
+    margin-left: 58px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+.h2{
+    display: flex;
+    margin-left: 552px;
+    margin-top: 125px;
+}
+.line1{
+    background-color: brown;
+    width: 65px;
+    height: 4px;
+    margin-left: 600px;
+    margin-top: 15px;
+}
+.para1{
+    padding: 50px;
+}
+.contant2{
+    display: inline;
+    
+}
+.btn2{
+    width: 180px;
+    height: 37px;
+    border-radius: 5px;
+    margin-left: 694px;
+    margin-top: 10px;
+}
+.btn{
+    width: 150px;
+    height: 37px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -7px;
+    background-color: #0f8b8d;
+    margin-left: 673px
+    
+}
+.round1{
+    background-image: url("https://milma.com/theme/images/home/federationunitshome.jpg");
+    border-radius: 50%;
+    width: 223px;
+    height: 217px;
+    border-color: blue;
+    margin-left: 441px;
+    margin-top: -203px;
+}
+.round2{
+    background-image: url("https://milma.com/theme/images/home/unionshome.png");
+    border-radius: 50%;
+    width: 223px;
+    height: 217px;
+    border-color: blue;
+    margin-left: 880px;
+    margin-top: -265px;
+}
+.contant3{
+    margin-left: 411pxpx;
+    margin-top: 196px;
+}
+.contant3{
+    margin-left: 411pxpx;
+    margin-top: 196px;
+}
+.round3{
+    background-image: url("https://milma.com/theme/images/home/dairieshome.jpg");
+    border-radius: 50%;
+    width: 223px;
+    height: 217px;
+    border-color: blue;
+    margin-left: 441px;
+    margin-top: -195px;
+}
+.btn4{
+    width: 180px;
+    height: 37px;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.btn0{
+    width: 150px;
+    height: 37px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -7px;
+    background-color: #0f8b8d;
+    margin-left: 170px;
+}
+.round4{
+    background-image: url("https://milma.com/storage/others/v5UT1QICfmmZIwFS9vF1hBEag3IGTHg2hALPR5T9.jpeg");
+    border-radius: 50%;
+    width: 223px;
+    height: 217px;
+    border-color: blue;
+    margin-left: 741px;
+    margin-top: -70px;
+    margin-top: -161px;
+}
+.btn5{
+    width: 180px;
+    height: 37px;
+    border-radius: 5px;
+    margin-left: 527px;
+    margin-top: 10px;  
+}
+.btn00{
+    width: 150px;
+    height: 37px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -7px;
+    background-color: #0f8b8d;
+    margin-left: 607px;
+}
+.baseimg{
+    width: 170px;
+    margin-left: 140px;
+    margin-top: 76px;
+}
+.linebase{
+    width: 100%;
+    height: 3px;
+    background-color: brown;
+    margin-top: 90px;
+
+}
+.baseh3{
+    margin-left: 85px;
+    margin-top: 25px;
+    font-family: 'Allerta Stencil';
+}
+.baseh1{
+    margin-left: 560px;
+    margin-top: -181px;
+}
+.basepara{
+    margin-left: 35px;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.baseh12{
+    margin-left: 946px;
+    margin-top: -154px;
+}
+.basebtn{
+    margin-left: 965px;
+    margin-top: 38px;
+    width: 149px;
+    height: 45px;
+    border-radius: 26px;
+}
+.email1{
+    margin-left: 530px;
+    margin-top: -81px;
+    border-radius: 26px;
+    width: 40px;
+    height: 40px;
+   background: rgb(142, 41, 41);
+   display: flex;
+   align-items: center;  
+   justify-content: center;
+   font-family: 'Allerta Stencil';
+}
+.msg1{
+    align-items: center;
+    display: flex;
+    color: black;
+    font-size: large;
+    padding-left: 10px;
+    text-decoration: none;
+    margin-left: 600px;
+    margin-top: -28px;
+}
+.call1{
+    margin-left: 530px;
+    margin-top: 0px;
+    border-radius: 26px;
+    width: 40px;
+    height: 40px;
+    background: rgb(142, 41, 41);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Allerta Stencil';
+}
+.num1{
+    margin-left: 600px;
+    margin-top: -34px;
+    align-items: center;
+    display: flex;
+    color: black;
+    font-size: large;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.footer{
+    width: 100%;
+    height: 84px;
+    background-color: #0f8b8d;
+    padding: 30px;
+    margin-top: 152px;
+}
+.footerimg{
+    margin-left: 531px;
+    width: 613px;
+}
+.footerh5{
+    color: white;
+    margin-top: -54px;
+
+}
